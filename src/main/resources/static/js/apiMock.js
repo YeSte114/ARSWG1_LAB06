@@ -1,3 +1,5 @@
+//@author hcadavid
+
 apimock=(function(){
 
 	var mockdata=[];
@@ -30,7 +32,7 @@ apimock=(function(){
 				mockdata[authname].find(function(e){return e.name===bpname})
 			);
 		}
-	}	
+	}
 
 })();
 
