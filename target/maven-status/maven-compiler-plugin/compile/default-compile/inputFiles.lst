@@ -1,0 +1,14 @@
+C:\Users\Yeison Barreto\OneDrive\Documentos\UNIVERSIDAD\MATERIAS CARRERA\MATERIAS ECI 2022-2\ARSW\ARSWG1_LAB06\src\main\java\edu\eci\arsw\blueprints\model\Blueprint.java
+C:\Users\Yeison Barreto\OneDrive\Documentos\UNIVERSIDAD\MATERIAS CARRERA\MATERIAS ECI 2022-2\ARSW\ARSWG1_LAB06\src\main\java\edu\eci\arsw\blueprints\persistence\BlueprintPersistenceException.java
+C:\Users\Yeison Barreto\OneDrive\Documentos\UNIVERSIDAD\MATERIAS CARRERA\MATERIAS ECI 2022-2\ARSW\ARSWG1_LAB06\src\main\java\edu\eci\arsw\blueprintsapi\BlueprintsAPIApplication.java
+C:\Users\Yeison Barreto\OneDrive\Documentos\UNIVERSIDAD\MATERIAS CARRERA\MATERIAS ECI 2022-2\ARSW\ARSWG1_LAB06\src\main\java\edu\eci\arsw\blueprints\services\BlueprintsServices.java
+C:\Users\Yeison Barreto\OneDrive\Documentos\UNIVERSIDAD\MATERIAS CARRERA\MATERIAS ECI 2022-2\ARSW\ARSWG1_LAB06\src\main\java\edu\eci\arsw\blueprints\model\Point.java
+C:\Users\Yeison Barreto\OneDrive\Documentos\UNIVERSIDAD\MATERIAS CARRERA\MATERIAS ECI 2022-2\ARSW\ARSWG1_LAB06\src\main\java\edu\eci\arsw\blueprints\persistence\impl\Undersampling.java
+C:\Users\Yeison Barreto\OneDrive\Documentos\UNIVERSIDAD\MATERIAS CARRERA\MATERIAS ECI 2022-2\ARSW\ARSWG1_LAB06\src\main\java\edu\eci\arsw\blueprints\persistence\FiltrPersistence.java
+C:\Users\Yeison Barreto\OneDrive\Documentos\UNIVERSIDAD\MATERIAS CARRERA\MATERIAS ECI 2022-2\ARSW\ARSWG1_LAB06\src\main\java\edu\eci\arsw\blueprints\persistence\impl\InMemoryBlueprintPersistence.java
+C:\Users\Yeison Barreto\OneDrive\Documentos\UNIVERSIDAD\MATERIAS CARRERA\MATERIAS ECI 2022-2\ARSW\ARSWG1_LAB06\src\main\java\edu\eci\arsw\blueprints\controllers\BlueprintAPIController.java
+C:\Users\Yeison Barreto\OneDrive\Documentos\UNIVERSIDAD\MATERIAS CARRERA\MATERIAS ECI 2022-2\ARSW\ARSWG1_LAB06\src\main\java\edu\eci\arsw\blueprints\persistence\BlueprintsPersistence.java
+C:\Users\Yeison Barreto\OneDrive\Documentos\UNIVERSIDAD\MATERIAS CARRERA\MATERIAS ECI 2022-2\ARSW\ARSWG1_LAB06\src\main\java\edu\eci\arsw\blueprints\persistence\impl\Redundancies.java
+C:\Users\Yeison Barreto\OneDrive\Documentos\UNIVERSIDAD\MATERIAS CARRERA\MATERIAS ECI 2022-2\ARSW\ARSWG1_LAB06\src\main\java\edu\eci\arsw\blueprints\persistence\impl\Tuple.java
+C:\Users\Yeison Barreto\OneDrive\Documentos\UNIVERSIDAD\MATERIAS CARRERA\MATERIAS ECI 2022-2\ARSW\ARSWG1_LAB06\src\main\java\edu\eci\arsw\blueprints\persistence\BlueprintNotFoundException.java
+C:\Users\Yeison Barreto\OneDrive\Documentos\UNIVERSIDAD\MATERIAS CARRERA\MATERIAS ECI 2022-2\ARSW\ARSWG1_LAB06\src\main\java\edu\eci\arsw\blueprints\controllers\ResourceNotFoundException.java
